@@ -26,3 +26,11 @@ This tutorial explores deploying an Active Directory environment, from creation 
 - Observing Logs
 
 <h2>Configuration Steps</h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/e7bbd916-aaab-4319-ba99-b71104f8a810" />
+</p>
+<p>
+
+</p>
+<br />
